@@ -1,8 +1,4 @@
-# Travelling-plus-copy
-
-Esse repositório público foi criado para o acesso fácil do projeto do aplicativo Travelling +.
-
-O repositorio original e privado é este: https://github.com/zewuchen/TravellingPlus
+# Travelling-plus-Images
 
 
 ![Inicio](https://github.com/LuizHMC/Travelling-plus-copy/blob/main/IMG_6151.PNG?raw=true)
